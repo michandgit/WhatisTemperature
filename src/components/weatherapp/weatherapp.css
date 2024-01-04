@@ -1,0 +1,93 @@
+body{
+    background-image: url("../assets/cloudbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    background-color: rgb(11, 11, 97);
+    width:445px;
+    border-radius:12px;
+    height:500px;
+    margin:auto;
+    margin-top:35px;
+}
+
+.top-bar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:30px;
+    gap:15px;
+
+}
+.cityInput{
+    display:flex;
+    width:290px;
+    height:55px;
+    padding-left:20px;
+    border-radius:40px;
+    color:rgb(92, 85, 85);
+    border :none;
+    outline:none;
+    font-size:20px;
+    font-weight: 400;
+}
+
+.search-icon{
+    display:flex;
+    height:55px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    background-color: white;
+    width:80px;
+    cursor:pointer;
+    color:rgb(205, 197, 197);
+    
+}
+
+.weather-image{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.weather-image img{
+    height:180px;
+}
+
+.weather-location{
+    color:white;
+    font-size: 60px;
+    font-weight:400;
+}
+.weather-temp{
+    color:white;
+    font-size: 30px;
+    font-weight:400;
+}
+.data-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 23px;
+}
+.element{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 30px;
+    margin-left:30px;
+}
+
+.data{
+    color:white;
+    font-weight:400;
+    font-size:20px;
+}
+.text{
+    padding-left:20px;
+}
+
