@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/michandgit/WhatisTemperature.git/wthr/static/css/main.4ef098d8.css",
+    "main.js": "/michandgit/WhatisTemperature.git/wthr/static/js/main.18e2540f.js",
+    "static/js/787.0df0a93b.chunk.js": "/michandgit/WhatisTemperature.git/wthr/static/js/787.0df0a93b.chunk.js",
+    "static/media/cloudbg.jpg": "/michandgit/WhatisTemperature.git/wthr/static/media/cloudbg.2c781057b9eeaa647588.jpg",
+    "static/media/cloud.png": "/michandgit/WhatisTemperature.git/wthr/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/michandgit/WhatisTemperature.git/wthr/index.html",
+    "main.4ef098d8.css.map": "/michandgit/WhatisTemperature.git/wthr/static/css/main.4ef098d8.css.map",
+    "main.18e2540f.js.map": "/michandgit/WhatisTemperature.git/wthr/static/js/main.18e2540f.js.map",
+    "787.0df0a93b.chunk.js.map": "/michandgit/WhatisTemperature.git/wthr/static/js/787.0df0a93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef098d8.css",
+    "static/js/main.18e2540f.js"
+  ]
+}
